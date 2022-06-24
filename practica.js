@@ -1,2 +1,3 @@
 console.log("hello world");
-var dia = 
+var dia = 2
+var noche = 1
